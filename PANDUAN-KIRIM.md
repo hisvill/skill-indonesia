@@ -2,6 +2,8 @@
 
 Terima kasih sudah mau berbagi. Setiap skill dipakai orang lain untuk mengatur AI mereka, jadi setiap kiriman diperiksa otomatis lalu ditinjau sebelum tampil.
 
+Aturan lengkap, termasuk data apa saja yang menjadi publik, ada di [perpustakaan-skill.vercel.app/aturan.html](https://perpustakaan-skill.vercel.app/aturan.html).
+
 ## Syarat skill
 
 - Satu folder `skills/<nama-skill>/` berisi **SKILL.md** dan **meta.json** saja. File lain belum diterima.
@@ -9,14 +11,15 @@ Terima kasih sudah mau berbagi. Setiap skill dipakai orang lain untuk mengatur A
 - `description` menjelaskan apa yang dikerjakan skill dan kapan dipakai (40 sampai 1024 karakter).
 - Isi instruksi minimal 200 karakter, ukuran file maksimal 100 KB.
 - Berbahasa Indonesia, untuk pekerjaan nyata yang berulang.
-- Skill buatanmu sendiri, dan kamu setuju skill itu dibagikan dengan lisensi CC BY 4.0.
+- Skill buatanmu sendiri, dan kamu setuju skill itu dibagikan dengan lisensi CC BY 4.0. Boleh terinspirasi skill lain, asal ditulis ulang dan disebut sumbernya.
 
 ## Yang tidak diterima
 
 - Instruksi yang menyuruh AI mengabaikan aturannya, menyembunyikan sesuatu dari pengguna, atau membocorkan prompt sistem.
 - Perintah yang mengunduh lalu menjalankan skrip, menghapus file, atau mengirim kata sandi, token, OTP, atau data lain ke luar.
 - Data pribadi: nomor HP, NIK, alamat, nama orang sungguhan, nomor rekening.
-- Penipuan, judi, pinjol ilegal, ujaran kebencian, konten dewasa, atau saran medis, hukum, dan keuangan yang menggantikan ahli.
+- Penipuan, judi, pinjol ilegal, ujaran kebencian, dan konten dewasa.
+- Saran medis, hukum, atau keuangan yang menggantikan ahli. Skill boleh membantu memahami, tetapi harus menyarankan bertanya ke ahli untuk keputusan penting.
 - Promosi terselubung, tautan afiliasi, dan tautan pendek.
 
 ## Cara 1: tanpa akun GitHub
@@ -38,7 +41,7 @@ Kalau lebih suka cara biasa: fork, tambahkan folder di `skills/`, jalankan `node
 - Pemeriksaan otomatis berjalan di Pull Request. Kalau gagal, pesan kesalahannya menjelaskan bagian yang perlu diperbaiki.
 - Peninjau membaca isinya. Mungkin ada permintaan perubahan.
 - Setelah disetujui, skill tampil di website dengan label **Komunitas** dan namamu sebagai pembuat, biasanya dalam satu jam.
-- Skill yang dilaporkan bermasalah bisa dicabut kapan saja.
+- Skill yang terbukti melanggar aturan dicabut tanpa pemberitahuan lebih dulu. Mau mencabut skill buatanmu sendiri? Kirim DM ke Instagram @hisvill atau buka Pull Request.
 
 ## Memperbaiki skill yang sudah ada
 
