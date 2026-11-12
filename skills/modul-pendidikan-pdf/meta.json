@@ -1,0 +1,9 @@
+{
+  "name": "Pembuat produk digital format pdf",
+  "seg": "umum",
+  "short": "Untuk dijual ke lynk id atau lain lain",
+  "desc": "Nanti kamu akan diberi pertanyaan oleh claude atau ai yang kamu pakai untuk spek dari pdf kamu atau isi dari pdf kamu nanti kamu tentuin dari pertanyaan yang diberikan ai itu misal untuk kelas berapa nanti ada pilihan tk sampai sma jika kamu tekan tk nanti modul pdf nya  pelajaran anak tk gitu nah nanti dia akan mengerjakan sendiri ya",
+  "ask": "Kalo yang pake claude nanti tinggal  buka percakapan baru lalu awali percakapan dengan : /modul-pendidikan-pdf , lalu kirim nanti dia akan memberi pertanyaan ke kamu deh",
+  "author": "Elbandito 3.0",
+  "status": "komunitas"
+}
