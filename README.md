@@ -14,7 +14,7 @@ skill-check.js                  aturan pemeriksaan skill
 tools/periksa.js                menjalankan pemeriksaan untuk semua skill
 ```
 
-Skill berlabel `"status": "pilihan"` dibuat dan diuji oleh Hisvill. Skill berlabel `"status": "komunitas"` dikirim oleh pengguna, sudah lolos pemeriksaan otomatis dan tinjauan singkat, tetapi belum diuji oleh tim Hisvill.
+Skill berlabel `"status": "pilihan"` dibuat oleh Hisvill dan tampil sebagai **Dibuat Hisvill**. Skill berlabel `"status": "komunitas"` dikirim oleh pengguna, sudah lolos pemeriksaan otomatis dan tinjauan Hisvill, tetapi belum diuji oleh tim Hisvill. Skill yang bermasalah bisa dilaporkan lewat tombol **Laporkan skill ini** di website.
 
 ## Mengirim skill
 
