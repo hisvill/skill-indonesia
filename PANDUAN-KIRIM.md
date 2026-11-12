@@ -40,7 +40,7 @@ Kalau lebih suka cara biasa: fork, tambahkan folder di `skills/`, jalankan `node
 
 - Pemeriksaan otomatis berjalan di Pull Request. Kalau gagal, pesan kesalahannya menjelaskan bagian yang perlu diperbaiki.
 - Peninjau membaca isinya. Mungkin ada permintaan perubahan.
-- Setelah disetujui, skill tampil di website dengan label **Komunitas** dan namamu sebagai pembuat, biasanya dalam satu jam.
+- Setelah disetujui, skill tampil di website dengan label **Komunitas** dan namamu sebagai pembuat, dalam beberapa menit setelah disetujui.
 - Skill yang terbukti melanggar aturan dicabut tanpa pemberitahuan lebih dulu. Mau mencabut skill buatanmu sendiri? Kirim DM ke Instagram @hisvill atau buka Pull Request.
 
 ## Memperbaiki skill yang sudah ada
