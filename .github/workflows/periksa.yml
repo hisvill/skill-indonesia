@@ -21,3 +21,12 @@ jobs:
       - name: Periksa skill dan perubahan Pull Request
         if: github.event_name == 'pull_request'
         run: node tools/periksa.js --pr "origin/${{ github.base_ref }}"
+      # Setelah skill masuk ke main, minta Vercel membangun ulang website (mengambil skill terbaru).
+      # VERCEL_DEPLOY_HOOK diisi di Settings > Secrets and variables > Actions.
+      - name: Bangun ulang website
+        if: github.event_name == 'push'
+        env:
+          HOOK: ${{ secrets.VERCEL_DEPLOY_HOOK }}
+        run: |
+          if [ -z "$HOOK" ]; then echo "VERCEL_DEPLOY_HOOK belum diisi, website tidak dibangun ulang."; exit 0; fi
+          curl -fsS -X POST "$HOOK" > /dev/null && echo "Website sedang dibangun ulang."
