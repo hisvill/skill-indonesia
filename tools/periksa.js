@@ -31,7 +31,7 @@ for (const id of fs.readdirSync(DIR).sort()) {
 const i = process.argv.indexOf("--pr");
 if (i > 0) {
   const base = process.argv[i + 1];
-  const git = (...a) => execFileSync("git", a, {cwd: ROOT, encoding: "utf8"}).trim();
+  const git = (...a) => execFileSync("git", a, {cwd: ROOT, encoding: "utf8", stdio: ["ignore", "pipe", "ignore"]}).trim();
   const changed = git("diff", "--name-status", `${base}...HEAD`).split("\n").filter(Boolean).map(l => l.split("\t"));
   for (const [st, f, f2] of changed) {
     const file = f2 || f;
