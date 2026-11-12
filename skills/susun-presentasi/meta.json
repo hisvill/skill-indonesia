@@ -1,0 +1,11 @@
+{
+  "order": 18,
+  "seg": "mahasiswa",
+  "name": "Susun Presentasi",
+  "short": "Kerangka slide dan catatan bicara",
+  "desc": "Bab skripsi atau makalah jadi kerangka slide, satu gagasan per slide, lengkap dengan catatan bicara dan perkiraan pertanyaan penguji.",
+  "ask": "Buatkan kerangka slide sidang skripsi 15 menit dari bab 4 dan 5 ini: (tempel)",
+  "keys": "presentasi ppt slide sidang skripsi seminar proposal catatan bicara",
+  "author": "Hisvill",
+  "status": "pilihan"
+}

@@ -1,0 +1,11 @@
+{
+  "order": 11,
+  "seg": "guru",
+  "name": "Rubrik Penilaian",
+  "short": "Rubrik dengan deskripsi yang bisa diamati",
+  "desc": "Rubrik analitik atau holistik dengan deskripsi perilaku yang bisa diamati di setiap tingkat, plus cara menghitung nilainya.",
+  "ask": "Buatkan rubrik untuk presentasi kelompok kelas 9, skala 4, ada aspek isi, kerja sama, dan cara menyampaikan.",
+  "keys": "rubrik penilaian asesmen pedoman penskoran tugas proyek presentasi",
+  "author": "Hisvill",
+  "status": "pilihan"
+}

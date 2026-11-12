@@ -1,0 +1,11 @@
+{
+  "order": 26,
+  "seg": "kreator",
+  "name": "Kalender Konten",
+  "short": "Rencana konten sebulan yang realistis",
+  "desc": "Rencana konten sebulan dengan pilar, format yang bergantian, ide spesifik, dan jumlah posting yang sanggup kamu kerjakan.",
+  "ask": "Bikin kalender konten Desember untuk akun resep masakan rumahan, 4 kali posting seminggu.",
+  "keys": "kalender konten content plan ide posting jadwal pilar media sosial",
+  "author": "Hisvill",
+  "status": "pilihan"
+}

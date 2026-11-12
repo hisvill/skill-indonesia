@@ -1,0 +1,11 @@
+{
+  "order": 17,
+  "seg": "mahasiswa",
+  "name": "Ringkas Jurnal",
+  "short": "Ringkasan jurnal dan matriks tinjauan pustaka",
+  "desc": "Ringkasan artikel jurnal yang terstruktur dan matriks tinjauan pustaka dari beberapa artikel. Angka dan temuan tidak dikarang.",
+  "ask": "Ringkas jurnal ini untuk tinjauan pustaka skripsiku tentang minat beli online: (lampirkan PDF)",
+  "keys": "jurnal ringkasan artikel paper tinjauan pustaka literature review celah penelitian",
+  "author": "Hisvill",
+  "status": "pilihan"
+}

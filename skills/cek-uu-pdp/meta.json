@@ -1,0 +1,12 @@
+{
+  "order": 36,
+  "seg": "programmer",
+  "name": "Cek UU PDP",
+  "short": "Checklist pelindungan data pribadi",
+  "desc": "Checklist pelindungan data pribadi berdasarkan prinsip UU 27/2022: peta data, persetujuan, hak pengguna, keamanan, dan prosedur kebocoran.",
+  "ask": "Aplikasiku menyimpan nama, nomor HP, dan foto KTP pengguna. Cek apa saja yang perlu disiapkan untuk UU PDP.",
+  "keys": "uu pdp data pribadi privasi kebijakan privasi persetujuan kepatuhan keamanan",
+  "note": "Checklist untuk meninjau, bukan nasihat hukum.",
+  "author": "Hisvill",
+  "status": "pilihan"
+}

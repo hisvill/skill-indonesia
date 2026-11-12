@@ -1,0 +1,12 @@
+{
+  "order": 32,
+  "seg": "kreator",
+  "name": "Motion Graphic Otomatis",
+  "short": "Voice-over jadi video MP4 lewat kode",
+  "desc": "Naskah atau voice-over jadi video MP4 lewat kode animasi, dengan teks yang sinkron ke suara dan gaya visual dari kamu.",
+  "ask": "Buatkan video motion graphic 9:16 dari VO ini, latar krem dan teks hitam: (lampirkan file audio)",
+  "keys": "motion graphic otomatis render video mp4 remotion animasi kode claude code",
+  "note": "Butuh agent yang bisa menjalankan kode, seperti Claude Code atau Cursor.",
+  "author": "Hisvill",
+  "status": "pilihan"
+}

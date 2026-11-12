@@ -1,0 +1,11 @@
+{
+  "order": 22,
+  "seg": "organisasi",
+  "name": "Pengumuman & Undangan",
+  "short": "Pengumuman warga dan undangan rapat",
+  "desc": "Pengumuman warga, undangan rapat, dan broadcast WhatsApp dengan info penting di baris pertama. Hari dan tanggal dicocokkan.",
+  "ask": "Buatkan pengumuman kerja bakti RT 03, Minggu pagi jam 7, kumpul di pos ronda.",
+  "keys": "pengumuman undangan broadcast info warga rapat acara whatsapp",
+  "author": "Hisvill",
+  "status": "pilihan"
+}

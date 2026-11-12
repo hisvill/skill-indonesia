@@ -1,0 +1,42 @@
+{
+  "umum": {
+    "name": "Umum",
+    "for": "Urusan sehari-hari yang dihadapi hampir semua orang."
+  },
+  "pekerja": {
+    "name": "Pekerja",
+    "for": "Mencari kerja dan pekerjaan kantor."
+  },
+  "guru": {
+    "name": "Guru",
+    "for": "Perangkat ajar yang biasanya makan waktu berjam-jam."
+  },
+  "umkm": {
+    "name": "UMKM",
+    "for": "Jualan, harga, dan balasan untuk pembeli."
+  },
+  "mahasiswa": {
+    "name": "Mahasiswa",
+    "for": "Tugas akhir, jurnal, dan presentasi."
+  },
+  "keluarga": {
+    "name": "Keluarga",
+    "for": "Orang tua yang mendampingi anak, dan pelajar yang mau belajar mandiri."
+  },
+  "organisasi": {
+    "name": "Organisasi",
+    "for": "Pengurus RT, RW, masjid, karang taruna, dan komunitas."
+  },
+  "kreator": {
+    "name": "Kreator",
+    "for": "Naskah, ide, video, dan kerja sama dengan brand."
+  },
+  "programmer": {
+    "name": "Programmer",
+    "for": "Konteks Indonesia yang belum dibahas skill berbahasa Inggris. Paling berguna di Claude Code atau Cursor."
+  },
+  "sendiri": {
+    "name": "Buat sendiri",
+    "for": "Untuk pekerjaan yang belum ada skill-nya di sini."
+  }
+}

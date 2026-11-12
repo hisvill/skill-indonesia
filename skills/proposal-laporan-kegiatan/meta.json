@@ -1,0 +1,11 @@
+{
+  "order": 21,
+  "seg": "organisasi",
+  "name": "Proposal & LPJ Kegiatan",
+  "short": "Proposal, RAB, dan LPJ kegiatan",
+  "desc": "Proposal dan laporan pertanggungjawaban untuk RT, masjid, karang taruna, sekolah, atau kampus, dengan RAB yang dihitung ulang.",
+  "ask": "Buatkan proposal lomba 17 Agustus RT 04, peserta 150 warga, dana dari iuran dan donatur.",
+  "keys": "proposal kegiatan acara lpj rab anggaran panitia sponsor rt masjid karang taruna",
+  "author": "Hisvill",
+  "status": "pilihan"
+}

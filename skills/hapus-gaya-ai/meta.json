@@ -1,0 +1,11 @@
+{
+  "order": 24,
+  "seg": "kreator",
+  "name": "Hapus Gaya AI",
+  "short": "Tulisan tidak lagi terdengar seperti AI",
+  "desc": "Menulis ulang caption, naskah, atau artikel supaya tidak terdengar seperti buatan AI, tanpa membuang suara aslimu.",
+  "ask": "Tulisan ini kerasa banget AI-nya, bikin lebih natural: (tempel teks)",
+  "keys": "gaya ai natural manusiawi humanize tulisan caption naskah artikel",
+  "author": "Hisvill",
+  "status": "pilihan"
+}

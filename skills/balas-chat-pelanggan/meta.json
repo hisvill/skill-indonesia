@@ -1,0 +1,11 @@
+{
+  "order": 13,
+  "seg": "umkm",
+  "name": "Balas Chat Pelanggan",
+  "short": "Jawab stok, tawar harga, dan komplain",
+  "desc": "Balasan untuk tanya stok, tawar harga, komplain, paket telat, dan pembeli marah. Tidak menjanjikan refund atau diskon yang belum kamu setujui.",
+  "ask": "Pembeli komplain bajunya kekecilan dan minta tukar. Kebijakanku boleh tukar ukuran, ongkir ditanggung pembeli.",
+  "keys": "chat pelanggan pembeli komplain tawar nego stok refund retur whatsapp",
+  "author": "Hisvill",
+  "status": "pilihan"
+}

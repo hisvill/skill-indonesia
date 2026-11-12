@@ -1,0 +1,13 @@
+{
+  "order": 12,
+  "seg": "umkm",
+  "name": "Caption Produk",
+  "short": "Caption jualan untuk IG, TikTok, dan marketplace",
+  "desc": "Tiga versi caption untuk Instagram, TikTok, status WhatsApp, atau deskripsi Shopee dan Tokopedia. Tidak menambah klaim halal, BPOM, atau \"terlaris\" yang tidak kamu sebut.",
+  "ask": "Buatkan caption TikTok untuk gamis katun warna sage, Rp185.000, ukuran M sampai XL, beli lewat keranjang kuning.",
+  "keys": "caption jualan instagram tiktok shopee tokopedia whatsapp deskripsi produk promosi sesuaikan toko",
+  "ex": true,
+  "custom": true,
+  "author": "Hisvill",
+  "status": "pilihan"
+}

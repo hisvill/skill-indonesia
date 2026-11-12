@@ -1,0 +1,11 @@
+{
+  "order": 8,
+  "seg": "pekerja",
+  "name": "Notulen & Laporan",
+  "short": "Catatan rapat jadi notulen dan laporan",
+  "desc": "Catatan rapat jadi notulen dengan keputusan, penanggung jawab, dan tenggat. Bisa juga jadi laporan mingguan atau email ke atasan.",
+  "ask": "Rapikan catatan rapat ini jadi notulen: (tempel catatannya)",
+  "keys": "notulen risalah rapat laporan mingguan harian email atasan kantor",
+  "author": "Hisvill",
+  "status": "pilihan"
+}

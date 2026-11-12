@@ -1,0 +1,11 @@
+{
+  "order": 5,
+  "seg": "umum",
+  "name": "Anggaran Rumah Tangga",
+  "short": "Gaji dibagi ke kebutuhan, cicilan, dan tabungan",
+  "desc": "Gaji bulanan dibagi ke pos kebutuhan, cicilan, tabungan, dan dana darurat. Setiap total dihitung ulang.",
+  "ask": "Gajiku Rp5.200.000, kos Rp1.200.000, cicilan motor Rp850.000. Bantu bikin anggaran bulanan.",
+  "keys": "anggaran budget gaji keuangan rumah tangga tabungan dana darurat cicilan",
+  "author": "Hisvill",
+  "status": "pilihan"
+}

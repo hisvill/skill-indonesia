@@ -1,0 +1,12 @@
+{
+  "order": 39,
+  "seg": "sendiri",
+  "name": "Pembuat Skill",
+  "short": "AI-mu memandu membuat skill baru",
+  "desc": "Pasang skill ini, lalu bilang pekerjaan apa yang mau dibantu. AI-mu bertanya beberapa hal, menulis SKILL.md, mengujinya bersamamu, lalu memberikan filenya.",
+  "ask": "Aku guru ngaji TPA. Tiap bulan harus bikin laporan perkembangan santri buat orang tua. Bikinin skill-nya dong.",
+  "keys": "buat skill sendiri pembuat skill bikin skill custom baru",
+  "ex": true,
+  "author": "Hisvill",
+  "status": "pilihan"
+}

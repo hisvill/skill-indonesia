@@ -1,0 +1,11 @@
+{
+  "order": 37,
+  "seg": "programmer",
+  "name": "Dokumentasi & README",
+  "short": "README, dokumentasi API, dan changelog",
+  "desc": "README, panduan instalasi, dokumentasi API, dan changelog dari isi repositori. Perintah dan fitur tidak dikarang.",
+  "ask": "Buatkan README untuk proyek Laravel ini, pembacanya tim internal.",
+  "keys": "readme dokumentasi api instalasi changelog docs repositori",
+  "author": "Hisvill",
+  "status": "pilihan"
+}

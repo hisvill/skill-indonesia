@@ -1,0 +1,12 @@
+{
+  "order": 3,
+  "seg": "umum",
+  "name": "Cek Pesan Berantai",
+  "short": "Cara mengecek pesan WA yang mencurigakan",
+  "desc": "Menilai pesan WhatsApp yang mencurigakan, menunjukkan cara mengeceknya, dan menulis balasan sopan untuk grup keluarga. Tidak memvonis hoaks tanpa sumber.",
+  "ask": "Ini beneran nggak? Dapat dari grup keluarga: (tempel pesannya)",
+  "keys": "hoaks hoax cek fakta pesan berantai broadcast whatsapp grup keluarga",
+  "note": "Belum diuji bersama pemeriksa fakta. Pakai sebagai panduan mengecek, bukan vonis.",
+  "author": "Hisvill",
+  "status": "pilihan"
+}

@@ -1,0 +1,11 @@
+{
+  "order": 27,
+  "seg": "kreator",
+  "name": "Potong Video Panjang",
+  "short": "Video panjang jadi klip pendek",
+  "desc": "Transkrip podcast atau live jadi 5 sampai 10 klip pendek dengan stempel waktu, judul, dan hook.",
+  "ask": "Cari 5 klip terbaik dari transkrip podcast ini, masing-masing 30 sampai 60 detik: (tempel transkrip)",
+  "keys": "potong klip shorts podcast repurpose live transkrip video panjang",
+  "author": "Hisvill",
+  "status": "pilihan"
+}

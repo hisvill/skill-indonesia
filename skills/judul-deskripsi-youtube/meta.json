@@ -1,0 +1,11 @@
+{
+  "order": 28,
+  "seg": "kreator",
+  "name": "Judul & Deskripsi YouTube",
+  "short": "Judul, deskripsi, chapter, dan tag",
+  "desc": "Lima pilihan judul, teks thumbnail, deskripsi, bab video sesuai aturan YouTube, dan tag.",
+  "ask": "Buatkan judul, deskripsi, dan chapter untuk video ini: (tempel transkrip dengan stempel waktu)",
+  "keys": "youtube judul deskripsi chapter timestamp tag seo thumbnail",
+  "author": "Hisvill",
+  "status": "pilihan"
+}

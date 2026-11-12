@@ -1,0 +1,11 @@
+{
+  "order": 7,
+  "seg": "pekerja",
+  "name": "Latihan Wawancara",
+  "short": "Simulasi interview dengan masukan per jawaban",
+  "desc": "AI berperan sebagai HRD, bertanya satu per satu, lalu memberi masukan dan contoh jawaban dari pengalamanmu sendiri.",
+  "ask": "Latih aku wawancara untuk posisi customer service di bank. Tahap HRD, bahasa Indonesia.",
+  "keys": "wawancara interview hrd latihan pertanyaan star kerja",
+  "author": "Hisvill",
+  "status": "pilihan"
+}

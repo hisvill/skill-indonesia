@@ -1,0 +1,11 @@
+{
+  "order": 15,
+  "seg": "umkm",
+  "name": "Balas Ulasan Pembeli",
+  "short": "Balas ulasan bintang rendah dengan tenang",
+  "desc": "Balasan untuk ulasan di Shopee, Tokopedia, Google Maps, atau GoFood, terutama bintang rendah, yang juga terbaca baik oleh calon pembeli lain.",
+  "ask": "Ada ulasan bintang 1: pengiriman lama, sambalnya bocor. Bantu balas, aku mau kirim ganti.",
+  "keys": "ulasan review rating bintang balas shopee tokopedia google maps gofood",
+  "author": "Hisvill",
+  "status": "pilihan"
+}

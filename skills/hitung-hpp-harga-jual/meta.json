@@ -1,0 +1,11 @@
+{
+  "order": 14,
+  "seg": "umkm",
+  "name": "Hitung HPP & Harga Jual",
+  "short": "Modal per produk dan pilihan harga jual",
+  "desc": "Modal per produk dari bahan, kemasan, tenaga, dan biaya tetap, lalu tiga pilihan harga jual termasuk untuk marketplace. Rumusnya ditampilkan.",
+  "ask": "Sekali produksi 40 bungkus keripik. Bahan Rp180.000, kemasan Rp1.000 per bungkus, gas Rp20.000. Berapa harga jual yang pas?",
+  "keys": "hpp modal harga jual margin markup untung marketplace potongan biaya",
+  "author": "Hisvill",
+  "status": "pilihan"
+}

@@ -1,0 +1,11 @@
+{
+  "order": 38,
+  "seg": "programmer",
+  "name": "Laravel & CodeIgniter",
+  "short": "Laravel, CodeIgniter, dan deploy ke cPanel",
+  "desc": "Laravel dan CodeIgniter 3 dan 4 tanpa mencampur versi, kebiasaan keamanan dasar, dan langkah deploy ke shared hosting atau cPanel.",
+  "ask": "Aplikasi CodeIgniter 4-ku error 404 setelah diunggah ke cPanel. Bantu cek.",
+  "keys": "laravel codeigniter ci3 ci4 php cpanel shared hosting deploy artisan spark",
+  "author": "Hisvill",
+  "status": "pilihan"
+}

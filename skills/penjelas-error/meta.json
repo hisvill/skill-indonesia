@@ -1,0 +1,11 @@
+{
+  "order": 33,
+  "seg": "programmer",
+  "name": "Penjelas Error",
+  "short": "Error dijelaskan dalam bahasa Indonesia",
+  "desc": "Pesan error dijelaskan dalam bahasa Indonesia sederhana: artinya, letaknya, penyebab yang paling mungkin, dan cara memperbaikinya.",
+  "ask": "Kenapa muncul error ini? TypeError: Cannot read properties of undefined (reading 'nama')",
+  "keys": "error bug stack trace debug pemula smk gagal build install",
+  "author": "Hisvill",
+  "status": "pilihan"
+}

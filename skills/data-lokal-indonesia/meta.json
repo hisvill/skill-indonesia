@@ -1,0 +1,11 @@
+{
+  "order": 35,
+  "seg": "programmer",
+  "name": "Data Lokal Indonesia",
+  "short": "Rupiah, tanggal, NIK, NPWP, nomor HP, alamat",
+  "desc": "Format Rupiah dan tanggal Indonesia, normalisasi nomor HP ke +62, validasi format NIK dan NPWP, serta struktur alamat sampai kelurahan.",
+  "ask": "Buatkan fungsi JavaScript untuk validasi format NIK dan normalisasi nomor HP ke +62.",
+  "keys": "rupiah tanggal nik npwp nomor hp alamat provinsi kelurahan kode pos validasi format",
+  "author": "Hisvill",
+  "status": "pilihan"
+}

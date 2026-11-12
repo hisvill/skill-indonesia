@@ -1,0 +1,11 @@
+{
+  "order": 4,
+  "seg": "umum",
+  "name": "Balas Pesan Sulit",
+  "short": "Menolak, menagih, dan minta maaf dengan sopan",
+  "desc": "Menolak, menagih utang teman, minta maaf, atau membalas atasan dan keluarga. Tiga versi: halus, seimbang, dan tegas.",
+  "ask": "Teman pinjam Rp500.000 tiga bulan lalu dan belum bayar. Bantu aku nagih tanpa bikin canggung.",
+  "keys": "balas pesan menolak tagih utang minta maaf atasan canggung sopan whatsapp",
+  "author": "Hisvill",
+  "status": "pilihan"
+}

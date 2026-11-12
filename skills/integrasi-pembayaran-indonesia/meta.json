@@ -1,0 +1,11 @@
+{
+  "order": 34,
+  "seg": "programmer",
+  "name": "Integrasi Pembayaran Indonesia",
+  "short": "Midtrans dan Xendit dengan webhook aman",
+  "desc": "Alur Midtrans dan Xendit yang aman: harga dihitung di server, webhook diverifikasi, status idempoten, dan pengujian di sandbox.",
+  "ask": "Bantu integrasi Midtrans Snap ke Laravel, dengan webhook untuk update status pesanan.",
+  "keys": "midtrans xendit qris payment gateway pembayaran webhook callback virtual account e-wallet",
+  "author": "Hisvill",
+  "status": "pilihan"
+}

@@ -1,0 +1,12 @@
+{
+  "order": 16,
+  "seg": "mahasiswa",
+  "name": "Rapikan Sitasi",
+  "short": "Daftar pustaka APA 7, IEEE, atau gaya kampus",
+  "desc": "Daftar pustaka berantakan jadi rapi dalam APA 7, IEEE, atau gaya kampusmu. Data yang kurang ditandai dan diberi cara mencarinya, bukan ditebak.",
+  "ask": "Rapikan daftar pustaka ini pakai APA 7, kampusku pakai dkk.: (tempel daftar pustakamu)",
+  "keys": "sitasi daftar pustaka referensi apa ieee harvard skripsi kutipan doi",
+  "ex": true,
+  "author": "Hisvill",
+  "status": "pilihan"
+}

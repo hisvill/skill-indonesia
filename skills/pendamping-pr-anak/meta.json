@@ -1,0 +1,11 @@
+{
+  "order": 19,
+  "seg": "keluarga",
+  "name": "Pendamping PR Anak",
+  "short": "Bimbing anak tanpa langsung memberi jawaban",
+  "desc": "Menjelaskan materi ke orang tua dulu, lalu memberi pertanyaan pancingan untuk anak. Jawaban soal hanya untuk dicocokkan orang tua.",
+  "ask": "Anakku kelas 4 bingung soal ini: Ibu membeli 3 kantong jeruk, tiap kantong isi 12. Gimana jelasinnya?",
+  "keys": "pr anak tugas sekolah sd smp orang tua belajar matematika",
+  "author": "Hisvill",
+  "status": "pilihan"
+}

@@ -1,0 +1,23 @@
+name: Periksa skill
+on:
+  push:
+    branches: [main]
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  periksa:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - name: Periksa semua skill
+        if: github.event_name == 'push'
+        run: node tools/periksa.js
+      - name: Periksa skill dan perubahan Pull Request
+        if: github.event_name == 'pull_request'
+        run: node tools/periksa.js --pr "origin/${{ github.base_ref }}"

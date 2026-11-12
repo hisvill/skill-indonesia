@@ -1,0 +1,11 @@
+{
+  "order": 20,
+  "seg": "keluarga",
+  "name": "Belajar Tanya-Jawab",
+  "short": "Kuis dan kartu hafalan dari materimu",
+  "desc": "Materi pelajaran jadi kuis interaktif atau kartu hafalan. AI bertanya satu per satu dan mengulang soal yang salah.",
+  "ask": "Tes aku soal materi sistem peredaran darah ini, satu-satu ya: (tempel catatan)",
+  "keys": "belajar kuis latihan soal ujian utbk hafalan flashcard pelajar",
+  "author": "Hisvill",
+  "status": "pilihan"
+}

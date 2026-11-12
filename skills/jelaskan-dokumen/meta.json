@@ -1,0 +1,12 @@
+{
+  "order": 2,
+  "seg": "umum",
+  "name": "Jelaskan Dokumen",
+  "short": "Kontrak dan surat bank dalam bahasa sehari-hari",
+  "desc": "Kontrak kerja, surat bank, BPJS, pinjol, atau syarat dan ketentuan dijelaskan dengan bahasa sehari-hari, lengkap dengan pasal yang perlu diwaspadai dan pertanyaan untuk diajukan.",
+  "ask": "Tolong jelaskan kontrak kerja ini, aku mau tanda tangan besok: (tempel kontraknya)",
+  "keys": "kontrak perjanjian dokumen pasal bank bpjs pinjol asuransi syarat ketentuan hukum",
+  "note": "Membantu memahami, bukan nasihat hukum.",
+  "author": "Hisvill",
+  "status": "pilihan"
+}

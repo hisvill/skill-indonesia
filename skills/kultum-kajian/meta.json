@@ -1,0 +1,12 @@
+{
+  "order": 23,
+  "seg": "organisasi",
+  "name": "Kultum & Kajian",
+  "short": "Kerangka kultum dengan dalil yang ditandai",
+  "desc": "Kerangka kultum, ceramah, atau khutbah sesuai durasi. Ayat ditulis dengan nomor surah dan ayat, hadits hanya dari sumber yang kamu berikan, sisanya ditandai untuk dicek.",
+  "ask": "Buatkan kerangka kultum Subuh 7 menit tentang menjaga lisan, untuk jamaah bapak-bapak.",
+  "keys": "kultum ceramah khutbah kajian dakwah pengajian islam dalil",
+  "note": "Belum diperiksa ustadz. Periksakan dalil sebelum disampaikan.",
+  "author": "Hisvill",
+  "status": "pilihan"
+}

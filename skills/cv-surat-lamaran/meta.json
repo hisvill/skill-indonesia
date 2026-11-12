@@ -1,0 +1,11 @@
+{
+  "order": 6,
+  "seg": "pekerja",
+  "name": "CV & Surat Lamaran",
+  "short": "CV ramah ATS dan surat lamaran per lowongan",
+  "desc": "CV satu kolom yang mudah dibaca sistem ATS dan surat lamaran yang disesuaikan dengan lowongan. Pengalaman tidak dikarang.",
+  "ask": "Ini CV-ku dan lowongan admin gudang yang mau aku lamar. Tolong sesuaikan: (tempel keduanya)",
+  "keys": "cv resume lamaran kerja cover letter ats lowongan fresh graduate",
+  "author": "Hisvill",
+  "status": "pilihan"
+}

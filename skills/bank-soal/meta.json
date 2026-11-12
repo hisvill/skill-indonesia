@@ -1,0 +1,11 @@
+{
+  "order": 10,
+  "seg": "guru",
+  "name": "Bank Soal",
+  "short": "Soal PG dan esai C1 sampai C6 dengan kisi-kisi",
+  "desc": "Soal pilihan ganda, isian, dan esai per level kognitif C1 sampai C6, dengan kisi-kisi, kunci, dan pembahasan.",
+  "ask": "Buatkan 20 soal PG dan 5 esai IPA kelas 8 tentang sistem pencernaan, 4 opsi, 30% HOTS.",
+  "keys": "soal ulangan pg esai hots kisi-kisi kunci jawaban pts pas sumatif",
+  "author": "Hisvill",
+  "status": "pilihan"
+}

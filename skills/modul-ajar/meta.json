@@ -1,0 +1,12 @@
+{
+  "order": 9,
+  "seg": "guru",
+  "name": "Modul Ajar",
+  "short": "Modul ajar format Kurikulum Merdeka",
+  "desc": "Modul ajar format Kurikulum Merdeka: tujuan, kegiatan per pertemuan dengan waktu yang pas, asesmen, diferensiasi, LKPD, dan rubrik. CP tidak dikarang, kamu diminta menempelkan yang resmi.",
+  "ask": "Buatkan modul ajar Bahasa Indonesia kelas 4 SD, topik menulis surat untuk teman, 4 JP × 35 menit, 2 pertemuan.",
+  "keys": "rpp perangkat ajar kurikulum merdeka lkpd rubrik asesmen cp tp",
+  "ex": true,
+  "author": "Hisvill",
+  "status": "pilihan"
+}

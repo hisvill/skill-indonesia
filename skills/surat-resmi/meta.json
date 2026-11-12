@@ -1,0 +1,11 @@
+{
+  "order": 1,
+  "seg": "umum",
+  "name": "Surat Resmi",
+  "short": "Surat izin, permohonan, kuasa, dan pengunduran diri",
+  "desc": "Surat izin, permohonan ke kelurahan, pengunduran diri, surat kuasa, dan surat pernyataan dengan format baku. Nomor surat dan data yang tidak kamu berikan tidak dikarang.",
+  "ask": "Buatkan surat izin tidak masuk sekolah untuk anak saya, Rani kelas 5B, 2 hari karena sakit. Ditujukan ke wali kelas.",
+  "keys": "surat izin permohonan resmi pengunduran diri resign kuasa pernyataan kelurahan rt meterai",
+  "author": "Hisvill",
+  "status": "pilihan"
+}
