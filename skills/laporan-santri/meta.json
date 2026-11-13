@@ -1,0 +1,10 @@
+{
+  "name": "Laporan Santri",
+  "seg": "guru",
+  "short": "Laporan bulanan santri TPA untuk orang tua",
+  "desc": "Catatan singkat pengajar jadi laporan bulanan yang hangat untuk orang tua santri. Capaian yang tidak kamu sebut tidak dikarang.",
+  "ask": "Buatkan laporan bulan ini untuk Aisyah, Iqro 4 halaman 20, hafalan sampai An-Naba, hadir 11 dari 12 kali.",
+  "keys": "tpa santri laporan rapor ngaji iqro hafalan",
+  "author": "Reza Barnas",
+  "status": "komunitas"
+}
