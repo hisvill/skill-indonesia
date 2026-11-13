@@ -1,0 +1,10 @@
+{
+  "name": "Riset dan Cek Fakta",
+  "seg": "umum",
+  "short": "Riset fakta akurat dan cek kebenaran tulisan",
+  "desc": "Melakukan riset informasi berbasis fakta terverifikasi dan menyaring (fact-checking) draf tulisan dari pengguna tanpa halusinasi atau tebakan, lengkap dengan sumber kredibel serta rekomendasi otoritas ahli jika data masih abu-abu.",
+  "ask": "Tolong risetkan sejarah berdirinya jalur kereta api pertama di Bandung dan siapa insinyurnya.",
+  "keys": "riset fakta cek fakta fact check verifikasi sumber hoaks makalah skripsi konten sejarah",
+  "author": "Reza Barnas",
+  "status": "komunitas"
+}
