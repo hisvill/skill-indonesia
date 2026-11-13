@@ -1,0 +1,10 @@
+{
+  "name": "Mentor Vibe Coding",
+  "seg": "programmer",
+  "short": "Panduan bertahap bagi pembuat non-IT untuk membangun Website/Aplikasi",
+  "desc": "Skill ini memandu pembuat produk non-IT merencanakan, membangun, memperbaiki error, mengaudit keamanan dasar, dan meluncurkan website atau aplikasi secara bertahap dengan prioritas tool gratis (Rp0) serta prompt siap pakai untuk AI builder.",
+  "ask": "Saya mau bikin web app pencatat prospek sales sederhana pakai Google AI Studio dan Supabase dengan anggaran Rp0. Bantu susun PRD singkat dan prompt pertamanya.",
+  "keys": "vibe coding non-it website aplikasi saas prd prompt ai builder gratis debug deploy",
+  "author": "Angga R",
+  "status": "komunitas"
+}
