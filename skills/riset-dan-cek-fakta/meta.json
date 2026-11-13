@@ -1,0 +1,9 @@
+{
+  "name": "Riset dan Cek Fakta",
+  "seg": "umum",
+  "short": "untuk mecari fakta akurat  atau memvalidasi tulisan",
+  "desc": "Melakukan riset informasi berbasis fakta terverifikasi dan menyaring (fact-checking) draf tulisan dari pengguna tanpa halusinasi atau tebakan, lengkap dengan sumber kredibel serta rekomendasi otoritas ahli jika data masih abu-abu.",
+  "ask": "Mencari fakta suatu topik :\n\"Tolong risetkan sejarah berdirinya jalur kereta api pertama di Bandung dan siapa insinyurnya.\"\n\nMencari fakta suatu tulisan/draft materi\nTolong cek kebenaran fakta di dokumen yang saya lampirkan ini",
+  "author": "Reza Barnas",
+  "status": "komunitas"
+}
