@@ -1,0 +1,10 @@
+{
+  "name": "Modul Pendidikan PDF",
+  "seg": "kreator",
+  "short": "Modul dan worksheet PDF siap jual, TK sampai SMA",
+  "desc": "AI bertanya jenjang, topik, dan jumlah halaman, lalu menyusun modul, worksheet, atau latihan soal PDF untuk TK sampai SMA, termasuk persiapan TKA dan SNBT, siap dijual sebagai produk digital. Data yang tidak kamu berikan ditandai, tidak dikarang.",
+  "ask": "Buatkan modul PDF mewarnai untuk anak TK B, tema hewan, 10 halaman, lengkap dengan sampul dan kolom nama.",
+  "keys": "modul pdf worksheet latihan soal produk digital jualan tk sd smp sma tka snbt utbk mewarnai",
+  "author": "Elbandito 3.0",
+  "status": "komunitas"
+}
