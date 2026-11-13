@@ -1,0 +1,9 @@
+{
+  "name": "Audit Keamanan Coding",
+  "seg": "programmer",
+  "short": "Keamanan Coding",
+  "desc": "Mengaudit seluruh kode proyek aplikasi web, landing page, React/Next.js, atau Google Apps Script untuk mengecek kebenaran logika, kerapian struktur, dan kerentanan keamanan",
+  "ask": "Tolong audit seluruh codingan di proyek ini, cek apakah ada bug, kode berantakan, atau celah keamanan",
+  "author": "Reza Barnas",
+  "status": "komunitas"
+}
