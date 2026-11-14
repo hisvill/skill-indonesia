@@ -1,9 +1,10 @@
 {
-  "name": "mebedah materi kuliah",
+  "name": "Membedah Materi Kuliah",
   "seg": "mahasiswa",
-  "short": "mempelajari materi kuliah yang sekiranya belum dipahami.",
-  "desc": "skill ini akan meberikan penjelasan materi perkuliahan yang belom dipahami dan akan memberikan beberapai kuis untuk memperkuat pemahaman.",
-  "ask": "jelaskan (materi yang ingin dipelajari) berdasarkan dokumen yang saya berikan (jika ada dokumennya)",
+  "short": "Belajar materi kuliah bertahap dengan analogi dan kuis",
+  "desc": "Menjelaskan materi kuliah yang belum kamu pahami secara bertahap dengan analogi sederhana, lalu menguji pemahamanmu lewat kuis singkat di setiap bagian dan kuis evaluasi di akhir.",
+  "ask": "Bantu saya memahami materi Persamaan Dasar Akuntansi untuk kuliah Pengantar Akuntansi, lalu uji pemahaman saya dengan kuis.",
+  "keys": "belajar materi kuliah tutor kuis analogi mahasiswa pemahaman ujian",
   "author": "A. R. Muhammad",
   "status": "komunitas"
 }
