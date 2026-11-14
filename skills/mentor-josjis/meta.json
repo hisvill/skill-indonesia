@@ -1,0 +1,10 @@
+{
+  "name": "Membedah Materi Kuliah",
+  "seg": "mahasiswa",
+  "short": "Belajar materi kuliah bertahap dengan analogi dan kuis",
+  "desc": "Menjelaskan materi kuliah yang belum kamu pahami secara bertahap dengan analogi sederhana, lalu menguji pemahamanmu lewat kuis singkat di setiap bagian dan kuis evaluasi di akhir.",
+  "ask": "Bantu saya memahami materi Persamaan Dasar Akuntansi untuk kuliah Pengantar Akuntansi, lalu uji pemahaman saya dengan kuis.",
+  "keys": "belajar materi kuliah tutor kuis analogi mahasiswa pemahaman ujian",
+  "author": "A. R. Muhammad",
+  "status": "komunitas"
+}
