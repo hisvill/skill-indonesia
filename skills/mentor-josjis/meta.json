@@ -1,0 +1,9 @@
+{
+  "name": "mebedah materi kuliah",
+  "seg": "mahasiswa",
+  "short": "mempelajari materi kuliah yang sekiranya belum dipahami.",
+  "desc": "skill ini akan meberikan penjelasan materi perkuliahan yang belom dipahami dan akan memberikan beberapai kuis untuk memperkuat pemahaman.",
+  "ask": "jelaskan (materi yang ingin dipelajari) berdasarkan dokumen yang saya berikan (jika ada dokumennya)",
+  "author": "A. R. Muhammad",
+  "status": "komunitas"
+}
