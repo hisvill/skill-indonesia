@@ -1,0 +1,10 @@
+{
+  "name": "MEGA PROMPT FOR WEB",
+  "seg": "programmer",
+  "short": "Skill untuk membuat mega prompt yang khusus untuk pembuatan website",
+  "desc": "Generate comprehensive Technical Spec Mega-Prompts for single-file HTML/CSS/JS websites. Use this skill when the user wants to build, design, or recreate a website, landing page, or web UI.",
+  "ask": "Buatkan website untuk portofolio saya",
+  "keys": "mega prompt",
+  "author": "UDIN.UDIN07",
+  "status": "komunitas"
+}
