@@ -1,0 +1,10 @@
+{
+  "name": "Cek Keamanan Pra-Launching",
+  "seg": "programmer",
+  "short": "Cek keamanan web/app sebelum launching, 27 kriteria",
+  "desc": "Memeriksa kesiapan keamanan web atau aplikasi sebelum diluncurkan dengan 27 kriteria, lalu menyusun temuan berprioritas, perbaikan, dan skenario uji yang aman. Nilai rahasia selalu disamarkan dan tidak ada kode serangan.",
+  "ask": "Aplikasi web saya mau launching minggu depan. Tolong cek keamanannya, ini struktur proyek dan kode login-nya.",
+  "keys": "audit keamanan cek keamanan pra launching sebelum rilis web aplikasi api key autentikasi database kerentanan pentest checklist",
+  "author": "CuanPixel",
+  "status": "komunitas"
+}
