@@ -1,10 +1,10 @@
 {
-  "name": "AUDIT KEAMANAN",
-  "seg": "umum",
-  "short": "Audit keamanan app/web sebelum diluncurkan untuk menemukan kerentanan",
-  "desc": "Skill ini memeriksa keamanan app/web sebelum diluncurkan, menemukan kerentanan, dan memberikan rekomendasi perbaikan. Data rahasia wajib disamarkan dan hanya boleh dilaporkan kepada pemilik aplikasi, tanpa dibagikan kepada pihak lain.",
-  "ask": "Periksa keamanan app/web saya sebelum diluncurkan. Identifikasi semua kerentanan, periksa API Key, autentikasi, database, dan konfigurasi server. Buat laporan temuan berdasarkan tingkat risiko, sertakan dampak dan rekomendasi perbaikan. Jangan tampilkan atau kirim data rahasia kepada pihak lain.",
-  "keys": "audit keamanan, keamanan aplikasi, pemeriksaan aplikasi, keamanan web, pre-launch security, vulnerability assessment, secure coding, perlindungan data",
+  "name": "Cek Keamanan Pra-Launching",
+  "seg": "programmer",
+  "short": "Cek keamanan web/app sebelum launching, 27 kriteria",
+  "desc": "Memeriksa kesiapan keamanan web atau aplikasi sebelum diluncurkan dengan 27 kriteria, lalu menyusun temuan berprioritas, perbaikan, dan skenario uji yang aman. Nilai rahasia selalu disamarkan dan tidak ada kode serangan.",
+  "ask": "Aplikasi web saya mau launching minggu depan. Tolong cek keamanannya, ini struktur proyek dan kode login-nya.",
+  "keys": "audit keamanan cek keamanan pra launching sebelum rilis web aplikasi api key autentikasi database kerentanan pentest checklist",
   "author": "CuanPixel",
   "status": "komunitas"
 }
