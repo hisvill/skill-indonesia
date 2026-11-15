@@ -1,0 +1,9 @@
+{
+  "name": "Pembuat ebook (novel)",
+  "seg": "kreator",
+  "short": "Perencana dan penulis novel: dunia, tokoh, plot, naskah per bab.",
+  "desc": "Skill ini membantu merancang dan menulis novel serta cerita berseri, mulai dari konsep, dunia dan sistem kekuatan, tokoh, plot, sampai naskah per bab dan penyuntingan. Ia menjaga konsistensi cerita lewat Story Bible dan menandai mana usulan AI dan mana keputusan penulis. Skill ini tidak mengambil keputusan cerita sendiri tanpa persetujuan penulis, dan novel panjang dikerjakan bertahap",
+  "ask": "tentang seorang guru yang menemukan buku harian lama di sekolahnya. Tanyakan dulu hal yang perlu kamu tahu, lalu buatkan tokoh, outline, dan bab pertama. Dan juga saran saya diskusi dulu dengan ai  novel apa yang ingin kamu buat agar lebih baik hasilnya",
+  "author": "Elbandito 3.0",
+  "status": "komunitas"
+}
