@@ -1,0 +1,10 @@
+{
+  "name": "Anatomi Prompt V3.0 — Octa-Prompt",
+  "seg": "umum",
+  "short": "One Master Orchestrator. Eight Specialized Pillars",
+  "desc": "saya terinspirasi dari konten bang @hisvill : https://www.facebook.com/reel/1099301992961621 yang membuat saya mengembangkannya menjadi lebih kompleks, bukan hanya sebagai skill, tetapi menjadi plugin orchestrator yg berisi 8 pilar subskill untuk membedah anatomi dan menyusun prompt menjadi lebih terstruktur dan sistematis",
+  "ask": "audit, bedah, dan dekonstruksi prompt ini, bongkar hingga ke inti inti atomnya, lalu rekonstruksi secara sistematis dan terstruktur dengan menggunakan 8 pillar prompt ini",
+  "keys": "Anatomi Prompt, 8 Pillar",
+  "author": "HSaidno",
+  "status": "komunitas"
+}
