@@ -1,0 +1,10 @@
+{
+  "name": "PRD Vibe Coding (Non-IT)",
+  "seg": "programmer",
+  "short": "Menyusun dokumen spesifikasi aplikasi (PRD) siap pakai untuk AI Coding",
+  "desc": "Skill ini membantu Project Owner non-IT merancang Product Requirements Document (PRD) yang terstruktur dan tanpa jargon rumit agar mudah dibaca oleh AI Builder (Cursor, Bolt, Lovable). Skill ini sangat ketat menjaga akurasi bisnis dan tidak akan mengarang fitur, layanan, atau data yang belum Anda sebutkan (akan ditandai dengan [...]).",
+  "ask": "Bikinkan dokumen PRD buat aplikasi web pencatatan stok sembako. Masalah utamanya saya sering lupa nyatet barang masuk sama utang pembeli. Targetnya dipake sama kasir. Fitur utamanya nyatet barang masuk, kasir sederhana, sama catat utang.",
+  "keys": "prd, vibe coding, aplikasi, cursor, bolt, lovable, startup, spesifikasi, non-it",
+  "author": "Angga R",
+  "status": "komunitas"
+}
