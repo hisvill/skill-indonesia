@@ -39,7 +39,7 @@ Kalau lebih suka cara biasa: fork, tambahkan folder di `skills/`, jalankan `node
 ## Setelah dikirim
 
 - Pemeriksaan otomatis berjalan di Pull Request. Kalau gagal, pesan kesalahannya menjelaskan bagian yang perlu diperbaiki.
-- Peninjau membaca isinya. Mungkin ada permintaan perubahan.
+- Setiap hari pukul 19.00 WIB, Hisvill meninjau semua kiriman yang masuk dan membaca isinya. Kiriman setelah jam itu ditinjau pada jadwal hari berikutnya. Mungkin ada permintaan perubahan.
 - Setelah disetujui, skill tampil di website dengan label **Komunitas** dan namamu sebagai pembuat, dalam beberapa menit setelah disetujui.
 - Skill yang terbukti melanggar aturan dicabut tanpa pemberitahuan lebih dulu. Mau mencabut skill buatanmu sendiri? Kirim DM ke Instagram @hisvill atau buka Pull Request.
 
