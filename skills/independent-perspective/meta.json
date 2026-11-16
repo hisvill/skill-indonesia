@@ -2,9 +2,10 @@
   "name": "Independent Perspective (Reset Bias)",
   "seg": "umum",
   "short": "Memaksa AI abaikan riwayat chat lama untuk memberi sudut pandang baru",
-  "desc": "Gunakan skill ini di tengah obrolan panjang ketika AI mulai salah mengartikan ekspektasi Anda karena terlalu banyak \"membawa memori\". Skill ini berfungsi sebagai tombol reset virtual: memaksa AI melihat pertanyaan Anda dengan kacamata baru yang 100% independen, anti-halusinasi, dan didasarkan pada logika murni tanpa bias masa lalu.",
+  "desc": "Pakai di tengah obrolan panjang ketika AI mulai salah menangkap maksudmu karena terbawa riwayat chat. AI diminta menilai pertanyaan terbaru saja, memisahkan fakta, logika, dan opini, lalu menunjukkan kelemahan terbesarnya tanpa sekadar setuju.",
   "ask": "Gunakan Independent Perspective: Evaluasi ide strategi marketing ini. Abaikan semua asumsi dan data yang kita bahas di atas, dan berikan kelemahan logis terbesarnya berdasarkan teks yang saya berikan ini saja.",
-  "keys": "independen, obyektif, reset memori, anti bias, logika, evaluasi, general",
+  "keys": "independen obyektif reset memori anti bias logika evaluasi kritik sudut pandang",
+  "note": "Skill ini mengarahkan AI mengabaikan riwayat chat, bukan menghapus memorinya. Untuk hasil terbaik, mulai chat baru.",
   "author": "Angga R",
   "status": "komunitas"
 }
