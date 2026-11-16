@@ -31,14 +31,15 @@
   function frontmatter(text) {
     const m = /^---[ \t]*\r?\n([\s\S]*?)\r?\n---[ \t]*(?:\r?\n|$)/.exec(text);
     if (!m) return null;
-    const fm = {};
+    const fm = {}, stray = [];
     let key = null;
-    for (const line of m[1].split(/\r?\n/)) {
+    m[1].split(/\r?\n/).forEach((line, i) => {
       const kv = /^([A-Za-z_][\w-]*):\s*(.*)$/.exec(line);
-      if (kv) { key = kv[1]; fm[key] = kv[2].replace(/^["']|["']$/g, "").trim(); }
+      if (kv) { key = kv[1]; fm[key] = /^[>|][+-]?$/.test(kv[2].trim()) ? "" : kv[2].replace(/^["']|["']$/g, "").trim(); }   // ">" dan "|" = teks beberapa baris di bawahnya
       else if (key && /^\s+\S/.test(line)) fm[key] += " " + line.trim();
-    }
-    return {fm, body: text.slice(m[0].length)};
+      else if (line.trim() && !/^\s*#/.test(line)) stray.push(i + 2);   // baris di bagian atas yang bukan "kunci: nilai" (baris 1 adalah ---)
+    });
+    return {fm, body: text.slice(m[0].length), stray};
   }
 
   function scan(text, list) {
@@ -64,7 +65,8 @@
       errors.push("Bagian atas file harus diawali dan ditutup dengan baris --- berisi name dan description.");
       return {ok: false, errors, warnings};
     }
-    const {fm, body} = parsed;
+    const {fm, body, stray} = parsed;
+    stray.forEach(n => errors.push(`Baris ${n} di bagian atas file bukan pasangan "kunci: nilai". Bagian atas hanya boleh berisi name dan description, tanpa teks lain, supaya skill bisa dimuat di Claude atau Gemini.`));
     const name = fm.name || "", description = fm.description || "";
     if (!name) errors.push("name belum diisi di bagian atas file.");
     else if (!NAME_RE.test(name)) errors.push(`name "${name}" harus huruf kecil, angka, dan tanda hubung saja, misalnya laporan-santri.`);
