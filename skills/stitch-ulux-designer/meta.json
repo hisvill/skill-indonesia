@@ -1,0 +1,10 @@
+{
+  "name": "Stich-UIUX-Designer",
+  "seg": "programmer",
+  "short": "Ubah satu gambar referensi desain menjadi sistem desain lengkap dan pr",
+  "desc": "Skill ini membaca satu gambar referensi seperti screenshot, pin Pinterest, sketsa, atau wireframe, lalu mengekstrak warna, font, radius, border, dan bayangan dari gambar itu menjadi design tokens dan design system guidelines, dan membangun satu file index.html standalone berisi prototype multi-layar yang langsung bisa dibuka di browser. Skill ini tidak bekerja tanpa gambar referensi",
+  "ask": "Buatkan UI aplikasi keuangan gaya neobrutalism dari gambar ini, 3 layar: Analytics, Saving, dan Success.",
+  "keys": "ui ux desain prototype html tailwind referensi gambar neobrutalism stitch",
+  "author": "Fariz_Fathoni",
+  "status": "komunitas"
+}
